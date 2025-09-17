@@ -144,7 +144,7 @@ Projeto atual em que atuo, focado na criação de um **sistema de gestão** para
 **Versão:** 1.0  
 **Data de Criação:** 16/09/2025  
 
-
+## 4.1 Principais Aprendizado  
 - VBA = 4/10  
 - Markdown = 2/10  
 - C# (Entity Framework) = 5/10  
@@ -162,7 +162,7 @@ Projeto atual em que atuo, focado na criação de um **sistema de gestão** para
 - Conhecimento em partes especificas da Engenharia Eletrica = 3/10
 
 
-## 2. Principais Aprendizado  
+## 4.2 Principais Aprendizado  
 
 - Docker  
 - C#  
