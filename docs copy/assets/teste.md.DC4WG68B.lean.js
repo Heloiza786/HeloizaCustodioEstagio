@@ -1,1 +1,0 @@
-import{_ as a,c as i,o,ae as t}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"Autoavaliação","description":"","frontmatter":{},"headers":[],"relativePath":"teste.md","filePath":"teste.md"}'),r={name:"teste.md"};function s(n,e,l,d,c,p){return o(),i("div",null,e[0]||(e[0]=[t("",11)]))}const h=a(r,[["render",s]]);export{u as __pageData,h as default};
