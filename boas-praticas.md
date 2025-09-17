@@ -10,7 +10,8 @@ Sumário
 1.  [Sobre Esta Apresentação](#_1-sobre-esse-guia)
 2.  [Desenvolvimento](#_2-desenvolvimento)
 3.  [Projetos](#_3-projetos)
-4.  [AutoAvaliação](#_3-autoAvaliação)
+4.  [Autoavaliação](#_4-autoavaliacao)
+5.  [Áreas de Interesse](#_5-areas-de-interesse)
 
 
 
@@ -137,14 +138,12 @@ Projeto atual em que atuo, focado na criação de um **sistema de gestão** para
 
 
 
-3\. AutoAvaliação
+4\. AutoAvaliação
 ----------
-# Autoavaliação  
 
 **Versão:** 1.0  
 **Data de Criação:** 16/09/2025  
 
-## 1. Tecnologias Utilidades
 
 - VBA = 4/10  
 - Markdown = 2/10  
@@ -174,7 +173,7 @@ Projeto atual em que atuo, focado na criação de um **sistema de gestão** para
 - Git  
 - TDD  
 
-### 3. Áreas de Interesse
+### 5. Áreas de Interesse
 
 
 **Áreas de interesse para o futuro como desenvolvedor**
