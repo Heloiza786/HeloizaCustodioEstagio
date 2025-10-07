@@ -52,7 +52,7 @@ Neste módulo, apresento alguns dos projetos nos quais atuei, destacando as habi
 
 
 ## 3.1 LT-Dev 
-- Esse foi meu primeiro projeto na empresa, onde adquiri conhecimento em uma linguagem desafiadora: **Visual Basic**, que atualmente não é tão comum.  
+- Esse foi meu primeiro projeto ,  adquiri conhecimento em uma linguagem desafiadora: **Visual Basic**, que atualmente não é tão comum.  
 - Com o passar dos meses, desenvolvi um interesse genuíno pela linguagem.  
 - Nesse projeto, também aprimorei meus conhecimentos técnicos em **VBA, Macros e Engenharia Elétrica**.  
 
@@ -97,7 +97,7 @@ obs: imagem exemplo do projeto
 
 
 ## 3.3 TucuyQqahuac  
-Projeto atual em que atuo, focado na criação de um **sistema de gestão** para usuários que precisam registrar digitalmente livros e arquivos.  
+Projeto , focado na criação de um **sistema de gestão** para usuários que precisam registrar digitalmente livros e arquivos.  
 
 ### Contribuições no Back-End  
 - Implementação de **autenticação com JWT**.  
