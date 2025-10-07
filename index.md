@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Estágio"
-  text: "Desenvolvimento Pessoal na Empresa PSTG"
+  text: "Meu Desenvolvimento na Empresa PSTG"
   tagline: Guia de Apresentção 
   actions:
     - theme: brand

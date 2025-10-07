@@ -10,24 +10,23 @@ Sumário
 1.  [Sobre Esta Apresentação](#_1-sobre-esse-guia)
 2.  [Desenvolvimento](#_2-desenvolvimento)
 3.  [Projetos](#_3-projetos)
-4.  [Autoavaliação](#_4-autoavaliacao)
-5.  [Áreas de Interesse](#_5-areas-de-interesse)
+4.  [Tecnologias usadas](#_4-tecnologias-usadas)
 
 
 
 1\. Sobre esse guia
 ----------
 
-Este guia tem como objetivo registrar a minha evolução ao longo do período de estágio na empresa (1 ano), destacando as habilidades que adquiri, as contribuições que realizei e a forma como pude colaborar com a equipe. Nele, apresento também os sistemas que utilizei, os conhecimentos que compartilhei e como cada experiência contribuiu tanto para o meu desenvolvimento profissional quanto para o fortalecimento do trabalho coletivo.
+Este guia tem como objetivo registrar a minha evolução ao longo do período de estágio, destacando as habilidades que adquiri, as contribuições que realizei e a forma como pude colaborar com a equipe. Nele, apresento também os sistemas que utilizei, os conhecimentos que compartilhei e como cada experiência contribuiu tanto para o meu desenvolvimento profissional quanto para o fortalecimento do trabalho coletivo.
 
-Muito embora o foco deste documento seja a minha trajetória, considero-o um registro em constante construção, que pode e deve ser atualizado à medida que novos aprendizados, práticas e conquistas forem incorporados. Assim, ele reflete não apenas o que já foi realizado, mas também o caminho de evolução contínua que sigo dentro da empresa.
+Muito embora o foco deste documento seja a minha trajetória, considero-o um registro em constante construção, que pode e deve ser atualizado à medida que novos aprendizados, práticas e conquistas forem incorporados. Assim, ele reflete não apenas o que já foi realizado, mas também o caminho de evolução.
 * * *
 
 
 2\. Desenvolvimento
 ----------
 
-Durante este um ano na empresa, tive a oportunidade de participar de diversos projetos que marcaram a minha evolução. Nesta apresentação, vou destacar alguns deles e mostrar de que forma contribuíram para o meu desenvolvimento como desenvolvedora.
+Durante meu estágio, tive a oportunidade de participar de diversos projetos que marcaram a minha evolução. Nesta apresentação, vou destacar alguns deles e mostrar de que forma contribuíram para o meu desenvolvimento como desenvolvedora.
 
 Foram muitas etapas de aprendizado, cada uma com seus desafios e conquistas, e por isso não seria possível detalhar todas aqui. Ainda assim, preparei um resumo que representa bem essa trajetória e as principais experiências que vivi ao longo desse período.
 
@@ -138,48 +137,30 @@ Projeto atual em que atuo, focado na criação de um **sistema de gestão** para
 
 
 
-4\. AutoAvaliação
+4\. Tecnologias usadas
 ----------
 
 **Versão:** 1.0  
 **Data de Criação:** 16/09/2025  
 
 ## 4.1 Principais Aprendizado  
-- VBA = 4/10  
-- Markdown = 2/10  
-- C# (Entity Framework) = 5/10  
-- TDD = 7/10  
-- Figma (protótipos) = 8/10  
-- Unity = 6/10  
-- Git = 8,5/10  
-- Colmap / MeshLab (malha de pontos) = 6/10  
-- Realidade aumentada / 3D = 5/10  
-- Trello / Kanban = 10/10  
-- Banco de dados(MySql) = 8/10  
-- Vue/ts = 5,5/10
-- Docker = 4/10
-- Cypress = 7/10
-- Conhecimento em partes especificas da Engenharia Eletrica = 3/10
+- VBA
+- Markdown 
+- C# (Entity Framework) 
+- TDD 
+- Figma (protótipos) 
+- Unity
+- Git 
+- Colmap / MeshLab (malha de pontos) 
+- Realidade aumentada / 3D 
+- Trello / Kanban
+- Banco de dados(MySql)
+- Vue/ts 
+- Docker 
+- Cypress
+- Conhecimento em partes especificas da Engenharia Eletrica
 
 
-## 4.2 Principais Aprendizado  
 
-- Docker  
-- C#  
-- Unity  
-- Markdown  
-- Modelagem 3D (Unity, Colmap, MeshLab)  
-- Entity Framework  
-- Git  
-- TDD  
-
-### 5. Áreas de Interesse
-
-
-**Áreas de interesse para o futuro como desenvolvedor**
-
-Acredito que o momento em que estou na minha vida é um período de experiências e aprendizados. Dentro da empresa, tenho a oportunidade de explorar diferentes tecnologias e desafios. Como futuro cientista da computação, fico satisfeito em participar de projetos variados e inovadores, o que torna difícil definir uma única área de atuação neste momento.
-
-Ainda assim, tenho interesse em aprofundar meus conhecimentos em **redes neurais artificiais**, **API Rest** e desenvolvimento **front-end** e **back-end**, buscando constantemente novas oportunidades para colocar esses aprendizados em prática.
 
 ---
