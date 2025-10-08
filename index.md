@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Documentação
-      link: /boas-praticas
+      link: /documentacao
 
 ---
 
